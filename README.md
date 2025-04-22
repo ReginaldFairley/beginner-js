@@ -1,23 +1,4 @@
-# Beginner JavaScript Exercises
-
-A collection of JavaScript exercises organized by difficulty level:
-
-## Easy Exercises
-- Hello World (ex1)
-- Type Checker (ex2)
-- Name Screamer (ex6)
-
-## Medium Exercises
-- Resolution Checker (ex3)
-- Dice Roller (ex4)
-- Reverse String (ex9)
-
-## Hard Exercises
-- Template Lyrics (ex5)
-- Player Class (ex7)
-- Battle Simulation (ex8)
-
-## Getting Started
+## Instructions
 
 1. Install dependencies:
    ```
@@ -41,4 +22,4 @@ A collection of JavaScript exercises organized by difficulty level:
    npx jest tests/easy/ex1.test.js
    ```
 
-Complete the exercises in the corresponding files and make sure they pass all the tests!
+Complete the functions, run the test, and make sure they all pass. Then zip up the entire folder and send it to me via discord.
