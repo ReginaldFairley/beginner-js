@@ -1,0 +1,24 @@
+{
+  "name": "js-exercises",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "test:watch": "jest --watch",
+    "test:easy": "jest tests/easy",
+    "test:medium": "jest tests/medium",
+    "test:hard": "jest tests/hard"
+  },
+  "keywords": [
+    "javascript",
+    "beginner",
+    "exercises",
+    "jest"
+  ],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
